@@ -1,0 +1,7 @@
+// List admin players ID  ONE per line
+// Terron
+76561198041101545
+// Dante
+76561198029252218
+// Metru
+76561198054648307

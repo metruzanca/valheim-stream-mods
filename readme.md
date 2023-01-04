@@ -8,7 +8,7 @@
 - [Unlocked Portals](https://valheim.thunderstore.io/package/Crystal/ProperPortals/1.2.2/)
 
 #### Building
-- [PlanBuild](https://www.nexusmods.com/valheim/mods/1125)
+- [PlanBuild](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/)
 
 #### Convenience
 - [Blast Furnace can smelt all](https://valheim.thunderstore.io/package/SpaceDrive/BlastFurnaceAllOres/)
@@ -25,7 +25,7 @@
 
 ## Game changing
 - [HD Valheim](https://www.nexusmods.com/valheim/mods/302)
--  [Epic Loot](https://www.nexusmods.com/valheim/mods/387 "https://www.nexusmods.com/valheim/mods/387")
+-  [Epic Loot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/)
 	- [Harder Creatures](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl/)
 - [Valheim Plus](https://valheim.thunderstore.io/package/ValheimPlus/ValheimPlus/)
 	- Placement for Crafting
